@@ -14,7 +14,7 @@
 
 section{
     width: 60%;
-    margin:40px auto 60px;
+    margin:40px auto 50px;
 }
 
 .product{
@@ -80,4 +80,7 @@ section{
     right: 0;
 }
 
-
+.product_image:hoover {
+  cursor: pointer;
+  
+}
