@@ -25,3 +25,22 @@ section{
 .product_image{
     width: 300px;
 }
+
+.brand{
+    font-size: 15px;
+}
+
+.features{
+    font-weight: 500;
+}
+
+.price{
+    font-size: 15px;
+    font-weight:bolder;
+    color: red;
+}
+.former_price{
+    font-size: 14px;
+    text-decoration: line-through;
+
+}
